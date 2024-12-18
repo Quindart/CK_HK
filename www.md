@@ -73,3 +73,8 @@ spring:
         </dependency>
     </dependencies>
 ```
+```
+#html
+<html xmlns:th="http://www.thymeleaf.org">
+
+```
